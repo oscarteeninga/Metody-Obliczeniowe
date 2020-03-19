@@ -1,1 +1,1 @@
-# Metody-Obliczeniowe-2
+# Metody Obliczeniowe 2
